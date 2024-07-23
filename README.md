@@ -14,4 +14,4 @@ The FCB Data Analysis Dashboard provides a detailed overview of the student demo
 - Key Findings
 - Conclusion
   ## Data Source
-  - The Data set used for this project was gotten from class feedback on google document  **[FCB/DTA Data Collation](https://docs.google.com/spreadsheets/d/1slHSvA-UtOkseFsfuJJZiOL222vusWt6xEbFOXYxElQ/edit?usp=drivesdk)**
+  - The dataset used for this project was gotten from class feedback on google document  **[FCB/DTA Data Collation](https://docs.google.com/spreadsheets/d/1slHSvA-UtOkseFsfuJJZiOL222vusWt6xEbFOXYxElQ/edit?usp=drivesdk)**
