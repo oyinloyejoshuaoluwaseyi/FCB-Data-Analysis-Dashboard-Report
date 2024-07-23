@@ -28,11 +28,11 @@ The FCB Data Analysis Dashboard provides a detailed overview of the student demo
   Highest Level of Education: The filter options include HND/BSc, MSc, OND, and SSCE.
   Gender: Users can filter the data based on gender (Male, Female).
   ## Key Findings
-  Total Number of Students: 167 students in total.
-  Total Number of Groups: 16 groups.
-  Gender Distribution: Total Number of Males and females include, 97 and 80 respectively.
-  Demographic Balance: There is a noticeable balance in gender distribution with a slight male majority.
-  Marital Status: A significant majority of the students are single, indicating a predominantly young and unmarried demographic.
-  Geographical Concentration: Lagos stands out as the primary residential location for the majority of the students, with other states having significantly fewer students.
+  - Total Number of Students: 167 students in total.
+  - Total Number of Groups: 16 groups.
+  - Gender Distribution: Total Number of Males and females include, 97 and 80 respectively.
+  - Demographic Balance: There is a noticeable balance in gender distribution with a slight male majority.
+  - Marital Status: A significant majority of the students are single, indicating a predominantly young and unmarried demographic.
+  - Geographical Concentration: Lagos stands out as the primary residential location for the majority of the students, with other states having significantly fewer students.
   ## Conclusion
   The dashboard effectively uses visualizations to present the data, making it easy to understand and analyze the demographic details of the students. Understanding these characteristics can be used to improve the program's outreach strategies, cater to diverse learning styles and potentially predict student succes on prior qualifications.
