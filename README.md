@@ -3,7 +3,7 @@
 ## Project Overview
 ---
 
-The FCB Data Analysis Dashboard provides a detailed overview of the student demographics at future clan bootcamp of data analysis class, categorized by gender, marital status, and residential location. It is designed by Oyinloye Oluwaseyi.
+The FCB Data Analysis Dashboard provides a detailed overview of the student demographics at future clan bootcamp of data analysis class, categorized by gender, marital status, and residential location.
 ---- 
 ## Project Outline
 ---
