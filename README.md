@@ -35,4 +35,4 @@ The FCB Data Analysis Dashboard provides a detailed overview of the student demo
   - Marital Status: A significant majority of the students are single, indicating a predominantly young and unmarried demographic.
   - Geographical Concentration: Lagos stands out as the primary residential location for the majority of the students, with other states having significantly fewer students.
   ## Conclusion
-  The dashboard effectively uses visualizations to present the data, making it easy to understand and analyze the demographic details of the students. Understanding these characteristics can be used to improve the program's outreach strategies, cater to diverse learning styles and potentially predict student succes on prior qualifications.
+  The dashboard effectively uses visualizations to present the data, making it easy to understand and analyze the demographic details of the students. Understanding these characteristics can be used to improve the program's outreach strategies, cater to diverse learning styles and potentially predict student success on prior qualifications.
